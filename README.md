@@ -8,8 +8,9 @@ Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complai
 
 Quick start:
 
-```
+````
 $ npm install
+$ npm run dev
 $ npm start
 ````
 
