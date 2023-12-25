@@ -1,0 +1,9 @@
+Imagine we want to console.log a user's name. We'd prefer to use their nickname (userNickname), but if they don't have one, we want to use their first name (userFirstName) instead. (Let's assume that their nickname may or may not be saved to our data, but their first name is guaranteed to be saved.)
+
+We could write our code as follows: console.log(userNickname || userFirstName)
+
+This way, we will console.log(userNickname) if there's any value stored in that variable; otherwise we will console.log userFirstName. 
+
+You can use analogous logic to complete this challenge! 
+
+    
