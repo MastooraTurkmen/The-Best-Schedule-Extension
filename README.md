@@ -37,3 +37,7 @@ $ git clone https://github.com/MastooraTurkmen/The-Best-Schedule-Extension.git
 # Go inside the repository
 $ cd The-Best-Schedule-Extension
 ```
+
+
+------
+
