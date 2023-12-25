@@ -38,6 +38,6 @@ $ git clone https://github.com/MastooraTurkmen/The-Best-Schedule-Extension.git
 $ cd The-Best-Schedule-Extension
 ```
 
-
 ------
 
+## Languages and Tools are used 🗣️🔧
