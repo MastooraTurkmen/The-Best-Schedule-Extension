@@ -33,4 +33,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 ```bash
 # Clone this repository
 $ git clone https://github.com/MastooraTurkmen/The-Best-Schedule-Extension.git
+
+# Go inside the repository
+
 ```
