@@ -1,4 +1,4 @@
-# co0ff4337ba2db0b55a3a982e
+# The Best Schedule Extension
 
 
 ## Before you Begin 🛠 🔨
