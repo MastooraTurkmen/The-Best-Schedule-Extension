@@ -41,3 +41,5 @@ $ cd The-Best-Schedule-Extension
 ------
 
 ## Languages and Tools are used 🗣️🔧
+
+1. **Languages** 🗣️
