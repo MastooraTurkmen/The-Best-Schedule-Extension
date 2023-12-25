@@ -58,3 +58,4 @@ $ cd The-Best-Schedule-Extension
 
 ------
 
+# React + Vite
