@@ -78,5 +78,7 @@ Currently, two official plugins are available:
    + ***ConfigButton jsx***
    + ***ConfigMenu jsx***
    + ***News jsx***
+   + ***Quate jsx***
+   + ***Stocks jsx***
    
    
