@@ -71,4 +71,5 @@ Currently, two official plugins are available:
 
 1. ***index html***
 2. ***style css***
-1. ***index jsx***
+3. ***index jsx***
+4. ***App jsx***
