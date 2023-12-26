@@ -81,6 +81,8 @@ Currently, two official plugins are available:
    + ***Quate jsx***
    + ***Stocks jsx***
    + ***ToDo jsx***
-   + ***Weather jsx***
+   + ***Weather jsx**
+6. ***data***
+   + ***blankConfig js***
    
    
