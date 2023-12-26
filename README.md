@@ -86,3 +86,8 @@ Currently, two official plugins are available:
    + ***blankConfig js***
    
    
+## ***index html***
+
+```html
+
+```
