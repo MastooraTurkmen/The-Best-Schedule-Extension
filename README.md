@@ -74,3 +74,4 @@ Currently, two official plugins are available:
 3. ***index jsx***
 4. ***App jsx***
 5. ***components***
+   + ***Clock jsx***
