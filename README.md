@@ -80,5 +80,6 @@ Currently, two official plugins are available:
    + ***News jsx***
    + ***Quate jsx***
    + ***Stocks jsx***
+   + ***ToDo jsx***
    
    
