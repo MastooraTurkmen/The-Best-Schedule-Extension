@@ -77,3 +77,6 @@ Currently, two official plugins are available:
    + ***Clock jsx***
    + ***ConfigButton jsx***
    + ***ConfigMenu jsx***
+   + ***News jsx***
+   
+   
