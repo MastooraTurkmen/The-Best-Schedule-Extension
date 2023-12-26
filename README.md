@@ -73,3 +73,4 @@ Currently, two official plugins are available:
 2. ***style css***
 3. ***index jsx***
 4. ***App jsx***
+5. ***components***
