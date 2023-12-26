@@ -75,3 +75,4 @@ Currently, two official plugins are available:
 4. ***App jsx***
 5. ***components***
    + ***Clock jsx***
+   + ***ConfigButton jsx***
