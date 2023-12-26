@@ -98,6 +98,9 @@ Currently, two official plugins are available:
     <link rel="stylesheet" href="/style.css">
     <title>The Best Schedule Extension</title>
 </head>
-
+<body>
+    <div id="root"></div>
+    <script src="/index.jsx" type="module"></script>
+</body>
 </html>
 ```
