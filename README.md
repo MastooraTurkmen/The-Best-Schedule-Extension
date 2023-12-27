@@ -109,5 +109,23 @@ Currently, two official plugins are available:
 ## ***style css***
 
 ```css
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
 
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100vh;
+    min-width: 1000px;
+    background: url("./images/beach-background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+}
 ```
