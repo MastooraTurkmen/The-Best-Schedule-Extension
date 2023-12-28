@@ -4,6 +4,7 @@ Set your schedule extension here, the best app which you can add six types of sc
 
 + The date schedule 
 + The weather schedule
++ The currency schedule
 
 ## Screenshots
 
