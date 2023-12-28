@@ -1,5 +1,6 @@
 # The Best Schedule Extension
 
+Set your schedule extension here,  
 
 ## Screenshots
 
