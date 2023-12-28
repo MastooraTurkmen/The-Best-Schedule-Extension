@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-![Screenshots](image.png)
+![Screenshots](./screenshots/screenshot.png)
 
 ![Screenshots](image-1.png)
 
