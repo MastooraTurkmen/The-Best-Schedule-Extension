@@ -7,6 +7,7 @@ Set your schedule extension here, the best app which you can add six types of sc
 + The currency
 + The new Cars
 + To-Do List
++ The best Quotes
 
 ## Screenshots
 
