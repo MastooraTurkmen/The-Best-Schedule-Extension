@@ -2,6 +2,9 @@
 
 Set your schedule extension here, the best app which you can add six types of schedules. 
 
++ The date schedule 
+
+
 ## Screenshots
 
 ![Screenshots](./screenshots/screenshot.png)
