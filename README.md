@@ -10,7 +10,7 @@
 
 ![Screenshots](image-2.png)
 
-![Alt text](image-3.png)
+![Screenshots](image-3.png)
 
 ## Before you Begin 🛠 🔨
 
