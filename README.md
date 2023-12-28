@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-![Alt text](image.png)
+![Screenshots](image.png)
 
 ![Alt text](image-1.png)
 
