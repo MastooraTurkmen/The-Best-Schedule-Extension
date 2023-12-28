@@ -9,7 +9,7 @@ Set your schedule extension here, the best app which you can add six types of sc
 + To-Do List
 + The best Quotes
 
-With the green ***"Save"*** Button you can save the schedules and with ***"Reset"*** Button you can reset all schedules. 
+With the green ***"Save"*** Button you can save the schedules and with the orange ***"Reset"*** Button you can reset all schedules. 
 
 
 ## Screenshots
