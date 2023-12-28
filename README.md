@@ -5,7 +5,7 @@ Set your schedule extension here, the best app which you can add six types of sc
 + The date "Clock"
 + The weather
 + The currency "Stocks
-+ The new Cars
++ The new Cars "News"
 + To-Do List
 + The best Quotes
 
