@@ -21,8 +21,9 @@ With the green ***"Save"*** Button you can save the schedules and with the orang
 With the six other buttons you can set the save and reset the schedules. 
 
 ![Screenshots](./screenshots/screenshot-2.png)
-
 ![Screenshots](./screenshots/screenshot-3.png)
+
+-----
 
 ## Before you Begin 🛠 🔨
 
