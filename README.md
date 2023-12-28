@@ -1,6 +1,6 @@
 # The Best Schedule Extension
 
-Set your schedule extension here,  
+Set your schedule extension here, the best app which you can add six types of schedules. 
 
 ## Screenshots
 
