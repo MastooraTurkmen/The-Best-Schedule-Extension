@@ -2,9 +2,10 @@
 
 Set your schedule extension here, the best app which you can add six types of schedules. 
 
-+ The date schedule 
-+ The weather schedule
-+ The currency schedule
++ The date
++ The weather
++ The currency
++ The new Cars
 
 ## Screenshots
 
