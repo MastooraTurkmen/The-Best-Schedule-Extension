@@ -2,7 +2,7 @@
 
 Set your schedule extension here, the best app which you can add six types of schedules. 
 
-+ The date
++ The date "Clock"
 + The weather
 + The currency
 + The new Cars
