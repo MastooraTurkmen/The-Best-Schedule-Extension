@@ -91,6 +91,7 @@ $ cd The-Best-Schedule-Extension
 4. From there select **_Deploy with Github_**.
    ![Alt text](image.png)
 5. Then write your project name and select it.
+6. After selecting here you can see that the project **_Review configuration for The-Best-Schedule-Extension_**
 
 
 
