@@ -1,6 +1,7 @@
 # The Best Schedule Extension
 
-Set your schedule extension here, the best app which you can add six types of schedules. 
+Set your schedule extension here, the best app which you can add six types of schedules.
+https://the-best-schedule-extension.netlify.app/ 
 
 + The date "Clock"
 + The weather
