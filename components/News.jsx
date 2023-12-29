@@ -1,5 +1,6 @@
 import React from "react"
 import Draggable from "react-draggable"
+import widgets from "../images/widgets/news.png"
 
 export default function News(props) {
 	return (
@@ -18,7 +19,7 @@ export default function News(props) {
 						name="News"
 						onClick={props.changeHandler}
 					></button>
-					<img src="./images/widgets/news.png" />
+					<img src={widgets} />
 				</div>
 			</Draggable>
 		</div>
