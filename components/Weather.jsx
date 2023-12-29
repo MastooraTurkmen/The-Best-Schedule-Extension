@@ -1,5 +1,6 @@
 import React from "react"
 import Draggable from "react-draggable"
+import weather from "../images/widgets/weather.png"
 
 export default function Weather(props) {
 	return (
@@ -18,7 +19,7 @@ export default function Weather(props) {
 						name="Weather"
 						onClick={props.changeHandler}
 					></button>
-					<img src="./images/widgets/weather.png" />
+					<img src={weather} />
 				</div>
 			</Draggable>
 		</div>
