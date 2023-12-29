@@ -1,5 +1,7 @@
 import React from "react"
 import Draggable from "react-draggable"
+import todo from "../images/widgets/todo.png"
+
 
 export default function ToDo(props) {
 	return (
@@ -19,7 +21,7 @@ export default function ToDo(props) {
 						onClick={props.changeHandler}
 					></button>
 
-					<img src="./images/widgets/todo.png" />
+					<img src={todo}/>
 				</div>
 			</Draggable>
 		</div>
