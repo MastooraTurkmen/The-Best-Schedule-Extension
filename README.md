@@ -96,7 +96,7 @@ $ cd The-Best-Schedule-Extension
    ![netlify-deploy](./netlify-images/netlify-deploy-2.png)
    ![netlify-deploy](./netlify-images/netlify-deploy-3.png)
 7. Now your project is Live.
-   ![Alt text](image.png)
+   ![netlify-deploy](image.png)
 
 
 
