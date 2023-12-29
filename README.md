@@ -89,7 +89,7 @@ $ cd The-Best-Schedule-Extension
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
 3. Go to the Netlify site and select Add a new site.
 4. From there select **_Deploy with Github_**.
-   ![Alt text](image.png)
+   ![netlify-deploy](image.png)
 5. Then write your project name and select it.
    ![Alt text](image-1.png)
 6. After selecting here you can see that the project **_Review configuration for The-Best-Schedule-Extension_** and then select the **_Deploy The-Best-Schedule-Extension_** Button.
