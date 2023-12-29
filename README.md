@@ -91,7 +91,7 @@ $ cd The-Best-Schedule-Extension
 4. From there select **_Deploy with Github_**.
    ![netlify-deploy](image.png)
 5. Then write your project name and select it.
-   ![Alt text](image-1.png)
+   ![netlify-deploy](image-1.png)
 6. After selecting here you can see that the project **_Review configuration for The-Best-Schedule-Extension_** and then select the **_Deploy The-Best-Schedule-Extension_** Button.
    ![Alt text](image-2.png)
    ![Alt text](image-3.png)
