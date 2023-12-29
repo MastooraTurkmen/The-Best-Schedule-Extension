@@ -1,5 +1,6 @@
 import React from "react"
 import Draggable from "react-draggable"
+import quote from "../images/widgets/quote.png"
 
 export default function Quote(props) {
 	return (
@@ -18,7 +19,7 @@ export default function Quote(props) {
 						name="Quote"
 						onClick={props.changeHandler}
 					></button>
-					<img src="./images/widgets/quote.png" />
+					<img src={quote} />
 				</div>
 			</Draggable>
 		</div>
