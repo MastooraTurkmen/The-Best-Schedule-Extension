@@ -94,7 +94,7 @@ $ cd The-Best-Schedule-Extension
    ![netlify-deploy](./netlify-images/netlify-deploy-1.png)
 6. After selecting here you can see that the project **_Review configuration for The-Best-Schedule-Extension_** and then select the **_Deploy The-Best-Schedule-Extension_** Button.
    ![netlify-deploy](./netlify-images/netlify-deploy-2.png)
-   ![netlify-deploy](image-3.png)
+   ![netlify-deploy](./netlify-images/netlify-deploy-3.png)
 7. Now your project is Live.
 
 
